@@ -29,8 +29,6 @@ const modal = new Modal(
 );
 modal.init();
 
-
-
 initAnimacaoScroll();
 initToolTip();
 initDropDown();
